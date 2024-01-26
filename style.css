@@ -90,3 +90,10 @@ p {
   width: 100%;
   height: 62% !important;
 }
+
+#contact {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  bottom: 200px;
+}
