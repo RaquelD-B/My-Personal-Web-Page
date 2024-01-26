@@ -86,3 +86,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.img-fluid {
+  width: 100%;
+  height: 62% !important;
+}
